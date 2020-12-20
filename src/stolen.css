@@ -1,0 +1,32 @@
+/** made by kelvin **/
+.footer {
+    text-align: center;
+    margin-bottom:1em;
+    padding-bottom:1em;
+}
+body {
+    background-color: #36393f;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif; /* default font sucks - icomputer7 */
+}
+.imgcont {
+    text-align: center;
+}
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: white;
+}
+
+/* selected link */
+a:active {
+    color: white
+}
