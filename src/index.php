@@ -18,7 +18,7 @@
 
             <hr>
             <div class="footer">
-                <p>originally made by kelvinpw. code stolen and modified by icomputer7.</p>
+                <p>originally made by alyx. code stolen and modified by icomputer7.</p>
                 <a href="mailto:logkiller@memenoodles.us">suggestions or new quotes?</a>
                 <br>
                 <a href="/api">API documentation</a>
