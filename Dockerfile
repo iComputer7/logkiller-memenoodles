@@ -2,4 +2,5 @@ FROM php:apache
 
 EXPOSE 80
 
-COPY src/* /var/www/html/
+RUN rm -rf /var/www/html
+COPY src /var/www/html
