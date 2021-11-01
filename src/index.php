@@ -3,7 +3,7 @@
     <head>
         <link rel="stylesheet" href="stolen.css">
         <title>Logkiller Quotes</title>
-        <script src="https://memenoodles.us/jquery.js"></script>
+        <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js"></script>
         <link rel="icon" href="favicon.ico">
         <meta property="og:title" content="Logkiller Quotes" />
         <meta property="og:url" content="https://logkiller.memenoodles.us/" />
