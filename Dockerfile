@@ -1,4 +1,4 @@
-FROM php:alpine
+FROM php:apache
 
 EXPOSE 80
 
