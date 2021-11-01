@@ -30,7 +30,7 @@
         </div>
         <script>
             // :screaming_sun:
-            var quotes = JSON.parse("[]");
+            var quotes = [];
             updateQuotesList();
             function newQuote() {
                 console.log("getting new quote");
